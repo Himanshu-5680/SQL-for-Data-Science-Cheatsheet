@@ -12,7 +12,7 @@
 
 &nbsp;
 
-> 📥 **Download:** [Get the PDF version of these notes here](http://SQL-for-Data-Science-Coursera-Cheatsheet.pdf?raw=true)
+> 📥 **Download:** [Get the PDF version of these notes here](https://github.com/Himanshu-5680/my-MYSQL-notes/blob/main/Raw_Notes-%26-PDF/SQL-for-Data-Science-Coursera-Cheatsheet.pdf?raw=true)
 > 📥 **Download:** [New release](https://github.com/Himanshu-5680/SQL-for-Data-Science-Cheatsheet/releases/latest)
 
 </div>
