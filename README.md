@@ -1,6 +1,6 @@
 > 📥 **Download:** [Get the PDF version of these notes here](SQL-for-Data-Science-Coursera-Cheatsheet.pdf?raw=true)
 > 📥 **Download:** [Download New release]([SQL-for-Data-Science-Coursera-Cheatsheet.pdf?raw=tru](https://github.com/Himanshu-5680/SQL-for-Data-Science-Cheatsheet/releases/latest))
-# 📊 SQL for Data Science: Quick Revision Notes
+# 📊 SQL for Data Science: Quick Revision Notesa
 
 > A structured compilation of SQL concepts optimized for quick revision and interview prep. 🚀
 
